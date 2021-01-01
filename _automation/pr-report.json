@@ -1,0 +1,113 @@
+{
+  "createdAt": "2026-06-06T18:34:25.777Z",
+  "results": [
+    {
+      "branch": "feat/project-scaffold",
+      "number": 1,
+      "url": "https://github.com/superfortune-passion/Java-Core-Project/pull/1",
+      "title": "feat: Project Scaffold"
+    },
+    {
+      "branch": "feat/oops-lessons",
+      "number": 2,
+      "url": "https://github.com/superfortune-passion/Java-Core-Project/pull/2",
+      "title": "feat: Oops Lessons"
+    },
+    {
+      "branch": "feat/exception-lessons",
+      "number": 3,
+      "url": "https://github.com/superfortune-passion/Java-Core-Project/pull/3",
+      "title": "feat: Exception Lessons"
+    },
+    {
+      "branch": "feat/enum-lesson",
+      "number": 4,
+      "url": "https://github.com/superfortune-passion/Java-Core-Project/pull/4",
+      "title": "feat: Enum Lesson"
+    },
+    {
+      "branch": "feat/datetime-lesson",
+      "number": 5,
+      "url": "https://github.com/superfortune-passion/Java-Core-Project/pull/5",
+      "title": "feat: Datetime Lesson"
+    },
+    {
+      "branch": "feat/file-lessons",
+      "number": 6,
+      "url": "https://github.com/superfortune-passion/Java-Core-Project/pull/6",
+      "title": "feat: File Lessons"
+    },
+    {
+      "branch": "feat/advanced-file",
+      "number": 7,
+      "url": "https://github.com/superfortune-passion/Java-Core-Project/pull/7",
+      "title": "feat: Advanced File"
+    },
+    {
+      "branch": "feat/collection-framework",
+      "number": 8,
+      "url": "https://github.com/superfortune-passion/Java-Core-Project/pull/8",
+      "title": "feat: Collection Framework"
+    },
+    {
+      "branch": "feat/lambda-expression",
+      "number": 9,
+      "url": "https://github.com/superfortune-passion/Java-Core-Project/pull/9",
+      "title": "feat: Lambda Expression"
+    },
+    {
+      "branch": "feat/atomic-reference",
+      "number": 10,
+      "url": "https://github.com/superfortune-passion/Java-Core-Project/pull/10",
+      "title": "feat: Atomic Reference"
+    },
+    {
+      "branch": "feat/api-lesson",
+      "number": 11,
+      "url": "https://github.com/superfortune-passion/Java-Core-Project/pull/11",
+      "title": "feat: Api Lesson"
+    },
+    {
+      "branch": "feat/atm-bankomat",
+      "number": 12,
+      "url": "https://github.com/superfortune-passion/Java-Core-Project/pull/12",
+      "title": "feat: Atm Bankomat"
+    },
+    {
+      "branch": "feat/atm2-bankomat",
+      "number": 13,
+      "url": "https://github.com/superfortune-passion/Java-Core-Project/pull/13",
+      "title": "feat: Atm2 Bankomat"
+    },
+    {
+      "branch": "feat/document-poi",
+      "number": 14,
+      "url": "https://github.com/superfortune-passion/Java-Core-Project/pull/14",
+      "title": "feat: Document Poi"
+    },
+    {
+      "branch": "feat/google-contact",
+      "number": 15,
+      "url": "https://github.com/superfortune-passion/Java-Core-Project/pull/15",
+      "title": "feat: Google Contact"
+    },
+    {
+      "branch": "feat/telegram-api",
+      "number": 16,
+      "url": "https://github.com/superfortune-passion/Java-Core-Project/pull/16",
+      "title": "feat: Telegram Api"
+    },
+    {
+      "branch": "feat/user-app",
+      "number": 17,
+      "url": "https://github.com/superfortune-passion/Java-Core-Project/pull/17",
+      "title": "feat: User App"
+    },
+    {
+      "branch": "feat/-gitignore",
+      "number": 18,
+      "url": "https://github.com/superfortune-passion/Java-Core-Project/pull/18",
+      "title": "feat:  Gitignore"
+    }
+  ]
+}

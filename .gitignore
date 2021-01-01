@@ -1,0 +1,12 @@
+# Build artifacts
+.gradle/
+build/
+*.class
+
+# IDE
+.idea/
+
+# Automation internals
+_automation/.snapshot/
+_automation/.work/
+_automation/manifest.json
